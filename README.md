@@ -2,7 +2,7 @@
 
 ## **Description**
 
-This project is a Tic-Tac-Toe web application built using HTML, CSS, and JavaScript. The game allows two players to take turns placing their markers on a 3x3 grid, with the goal of getting three in a row to win. The application tracks the game state, checks for winning conditions, and provides an interactive and engaging user experience.
+This project is a Tic-Tac-Toe web application built using HTML, CSS and JavaScript. The game allows two players to take turns placing their markers on a 3x3 grid, with the goal of getting three in a row to win. The application tracks the game state, checks for winning conditions, and provides an interactive and engaging user experience.
 
 ### *Features*
 
